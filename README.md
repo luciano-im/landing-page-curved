@@ -9,3 +9,4 @@ In this project I'm using:
 * CSS variables
 * ::before and ::after pseudo-elements to resolve the curved sections
 * Embedding and modifying SVG images
+* Mobile First
